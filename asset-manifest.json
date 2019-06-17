@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f173ed24.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b708217e.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b708217e.chunk.js.map",
+    "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
+    "static/js/2.8d248648.chunk.js": "/Portfolio/static/js/2.8d248648.chunk.js",
+    "static/js/2.8d248648.chunk.js.map": "/Portfolio/static/js/2.8d248648.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.7a0a4921a9c97ffbcdf5b94a3b7df89b.js": "/Portfolio/precache-manifest.7a0a4921a9c97ffbcdf5b94a3b7df89b.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.f173ed24.chunk.css.map": "/Portfolio/static/css/main.f173ed24.chunk.css.map",
+    "static/media/geovanna.PNG": "/Portfolio/static/media/geovanna.3d263a3b.PNG",
+    "static/media/logo3.png": "/Portfolio/static/media/logo3.5fb75589.png",
+    "static/media/monitora.png": "/Portfolio/static/media/monitora.c06d475e.png",
+    "static/media/perfil.jpg": "/Portfolio/static/media/perfil.6bfaa330.jpg",
+    "static/media/pill.png": "/Portfolio/static/media/pill.807f0b30.png",
+    "static/media/sgbs.png": "/Portfolio/static/media/sgbs.861bb6ce.png",
+    "static/media/truco.PNG": "/Portfolio/static/media/truco.41fbc095.PNG"
+  }
+}
