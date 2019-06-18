@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f173ed24.chunk.css",
+    "main.css": "/Portfolio/static/css/main.583a27ff.chunk.css",
     "main.js": "/Portfolio/static/js/main.b708217e.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.b708217e.chunk.js.map",
     "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
@@ -8,9 +8,9 @@
     "static/js/2.8d248648.chunk.js": "/Portfolio/static/js/2.8d248648.chunk.js",
     "static/js/2.8d248648.chunk.js.map": "/Portfolio/static/js/2.8d248648.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.7a0a4921a9c97ffbcdf5b94a3b7df89b.js": "/Portfolio/precache-manifest.7a0a4921a9c97ffbcdf5b94a3b7df89b.js",
+    "precache-manifest.dbf43667e641557cc23788fbbe03eb81.js": "/Portfolio/precache-manifest.dbf43667e641557cc23788fbbe03eb81.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.f173ed24.chunk.css.map": "/Portfolio/static/css/main.f173ed24.chunk.css.map",
+    "static/css/main.583a27ff.chunk.css.map": "/Portfolio/static/css/main.583a27ff.chunk.css.map",
     "static/media/geovanna.PNG": "/Portfolio/static/media/geovanna.3d263a3b.PNG",
     "static/media/logo3.png": "/Portfolio/static/media/logo3.5fb75589.png",
     "static/media/monitora.png": "/Portfolio/static/media/monitora.c06d475e.png",
